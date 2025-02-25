@@ -8,8 +8,6 @@ This repository contains solutions for Assignment 1 of Module 2: Basic Python Co
 
 - [Task 1: Perform Basic Mathematical Operations](#task-1-perform-basic-mathematical-operations)
 - [Task 2: Create a Personalized Greeting](#task-2-create-a-personalized-greeting)
-- [Submission Instructions](#submission-instructions)
-- [License](#license)
 - [Contact Information](#contact-information)
 
 ## Task 1: Perform Basic Mathematical Operations
@@ -37,3 +35,7 @@ Problem Statement: Write a Python program that:
 Expected Output:
 The program should output a greeting like:
 Hello, Vijai Gopal, Welcome to Python Program.
+
+## Contact Information
+
+[yaitoolbox@gmail.com]
